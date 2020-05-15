@@ -32,8 +32,8 @@ We see that in fact these countries have relatively small number of new cases pe
 #### From active cases per million
 
 One of countries in green group was Estonia, but in red Finland. Is that fair?
-![Estonia](./data/plots/estonia.png)
-![Finland](./data/plots/finland.png)
+![Estonia](./data/plots/estoniaac.png)
+![Finland](./data/plots/finlandac.png)
 There are other countries like Finland - Bulgaria, Poland, Romania, Ukraine.
 
 #### From percentage increase in deaths
