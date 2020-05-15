@@ -49,3 +49,39 @@ Charts below show nuber of daily new deaths per million inhabitants, y-axis is i
 ![Ukraine](./data/plots/ukrained.png)
 
 ### Our charts
+
+#### New cases comparison
+
+##### Charts like in endcoronavirus.org
+
+![endcoronavirus](./data/plots/notnormalised.png)
+
+##### Normalised charts
+
+![normalised](./data/plots/normalised.png)
+
+![normalised](./data/plots/orange.png)
+
+![normalised](./data/plots/green.png)
+
+#### Deaths comparison
+
+![normalised](./data/plots/deathso1.png)
+![normalised](./data/plots/deathso2.png)
+![normalised](./data/plots/deathso3.png)
+
+![normalised](./data/plots/deathsr.png)
+
+#### Active cases comparison
+
+##### Charts like in endcoronavirus.org
+
+![endcoronavirus](./data/plots/acnng.png)
+
+![endcoronavirus](./data/plots/acnno.png)
+
+##### Normalised charts
+
+![normalised](./data/plots/acng.png)
+
+![normalised](./data/plots/acno.png)
