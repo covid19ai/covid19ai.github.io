@@ -176,10 +176,12 @@ oczacować różnice między deklarowaną liczbą przypadków a rzeczywistą.
 
 W celu oszacowania rzeczywistej liczby przypadków bazowano na liczbie testów i liczbie zgonów.
 Na tej podstawie zbudowano wiele modeli regresji. Błędy jakie uzyskano były jednak bardzo duże.
+Aby im zapobiec została podjęta próba wybrania ,,rzetelnych'' państw i stworzenia z nich tzw.
+ground truth. Okazało się jednak, że i tutaj nie można było dojść do spójnych wyników.
 
-***Nie wiem co tu pisać***
-
-Wyniki zostały przedstawione poniżej.
+Wykres poniżej przedstawia liczbę potwierdzonych przypadków na milion w zależności od testów na milion.
+Zaznaczona została również kolorem liczba śmierci na milion. Rozmiar koła zaś świadczy o liczności populacji
+w danym państwie.
 
 ![Regresja](./assets/images/plots/regresja12.png)
 
@@ -222,6 +224,16 @@ oraz dzienny procentowy przyrost nowych przypadków.
  
 ![Cechy procentowe przyrost procentowy](assets/images/plots/cpprzyrostprocentowy.png)
 
+Wykresy poniżej przedstawiają procentowe przyrosty dla Dani oraz Francji. Przykład ten pokazuje, jak bardzo różnie może
+układać się przebieg epidemii w początkowej fazie. Widać, że dla Dani epidemia zaczyna się praktycznie od razu, natomiast
+dla Francji przyrost utrzymuje się na bardzo małym poziomie w zasadzie przez miesiąc, po czym dopiero następuje wybuch.
+Na wykresy naniesione zostały cechy użyte w analizie, czyli momenty w których przyrost spada do odpowiednio 50, 20 i 10
+procent.
+
+![Wyznaczanie początku Dania](assets/images/plots/wyznaczaniepoczatkudania.png)
+
+![Wyznaczanie początku Francja](assets/images/plots/wyznaczaniepoczatkufrancja.png)
+
 #### Cechy do klasteryzacji
 
 W celu klasteryzacji państw poprzednią cechę - sumaryczną liczbę wszystkich przypadków po ***N*** dniach zastąpiono
@@ -235,8 +247,6 @@ czterema innymi cechami:
 Zwiększenie się liczby cech spowodowało większą liczbę klasteryzacji, ponieważ była ona wykonywana dla każdej z cech
 z osobna. Każde z powstałych grupowań mówi coś innego - np. duże odchylenia standardowe mogą wskazywać na to, 
 że kraj albo rzadko publikuje statystyki albo w wybranym oknie czasowym epidemia ma niestabilny przebieg.
-
-***Wykresy ze slajdu 45???***
 
 #### Cechy charakteryzujące państwo
 Analogiczne do metody ilościowej z tym że, wartości liczbowe mówiące o przebiegu pandemii zostały zastąpione procentowymi.
@@ -268,7 +278,13 @@ lub im mniejszy rozwój koronawirusa, tym później zamknięto szkoły.
 * Ciężko jest znaleźć ogólne grupy krajów, ponieważ każde grupowanie określa inny moment/etap epidemii.
 * Możliwe, że problem jest dużo bardziej złożony i dlatego z tak prostych grupowań niewiele mogło wynikać.
 
-***Różnice kulturowe???***
+#### Różnice kulturowe
+W trakcie badań został uwidoczniony fakt, że wiele państw różni się od siebie pod względem kulturowym. Niektóre z tych
+różnic mogą mieć znaczny wpływ na przebieg epidemii. Przykładem może być odsetek ludzi w wieku 30-49 lat mieszkających
+ze swoimi prawdopodobnie już starszymi i bardziej narażonymi rodzicami (przedstawiony na wykresie poniżej). 
+Inny przykład może stanowić ,,otawrtość" narodu, czyli np. to jaką odległość utrzymuje się standardowo od ludzi obcych.
+
+![Różnice kulturowe](./assets/images/plots/kultura.png)
 
 ## Analizy zewnętrzne
 
