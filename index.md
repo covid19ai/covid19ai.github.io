@@ -322,7 +322,7 @@ Powstają także analizy dotyczące testowania i rozstrzygnięcia liczby zgonów
 Analiza i krytyczne spojrzenie na informacje ze strony endcoronavirus.org zostały opisane [tutaj](./endcoronavirus).
 
 ### Inne analizy
-Podsumowanie pozostałych analiz opisane zostało [tutaj](./otheranalyzes)
+Podsumowanie pozostałych analiz opisane zostało [tutaj](./otheranalyzes).
 
 ## Podsumowanie
 
@@ -335,8 +335,6 @@ Podsumowanie pozostałych analiz opisane zostało [tutaj](./otheranalyzes)
 * Państwa nierzetelnie podają informacje
 * Między państwami występują nieuchwytne różnice kulturowe
 * Państwa są wewnętrznie niezrównoważone
-
-
 * Początkowy brak świadomości, że liczba potwierdzonych przypadków oraz liczba zgonów jest liczona tak bardzo różnie
 * Nawet liczba testów może być liczona różnie
 * Znaczny wpływ na przebieg epidemii ma moment pojawienia się pierwszego przypadku
