@@ -295,3 +295,24 @@ Powstają także analizy dotyczące testowania i rozstrzygnięcia liczby zgonów
 
 ### endcoronavirus.org
 Analiza i krytyczne spojrzenie na informacje ze strony endcoronavirus.org zostały opisane [tutaj](./endcoronavirus).
+
+## Podsumowanie
+
+* Trudno wyznaczyć początek epidemii
+* Różne pokrycie testami w różnych państwach
+* Decyzje rządowe są ciężko porównywalne
+* Dane nieznormalizowane mogą łatwo wprowadzać w błąd
+* Testy są różnie liczone w różnych krajach i wątpliwa jest ich jakość
+* Bardzo trudno wyznaczyć nawet kilka krajów, w których pandemia przebiega w ten sam sposób
+* Państwa nierzetelnie podają informacje
+* Między państwami występują nieuchwytne różnice kulturowe
+* Państwa są wewnętrznie niezrównoważone
+
+
+* Początkowy brak świadomości, że liczba potwierdzonych przypadków oraz liczba zgonów jest liczona tak bardzo różnie
+* Nawet liczba testów może być liczona różnie
+* Znaczny wpływ na przebieg epidemii ma moment pojawienia się pierwszego przypadku
+* Ogrom różnych czynników sprawia, że bardzo ciężko jest przeprowadzić rzetelną analizę pod kątem jednego z nich
+* **Brak wspólnego mianownika pozwalającego porównywać kraje**
+
+
