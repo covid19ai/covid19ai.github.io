@@ -133,18 +133,18 @@ które blisko korzenia posiadały cechy dobrze rozgraniczające klasy, np. wydzi
 Poniżej przedstawione zostały przykładowe wizualizacje uzyskanych drzew dla problemu z kolejno
 dwoma, trzema i czterema etykietami.
 
-![Drzewo 2 klasy](./assets/images/plots/drzewo2.png)
+![Drzewo 2 klasy](assets/images/plots/drzewo2.png) 
 
-![Drzewo 3 klasy](./assets/images/plots/drzewo3.png)
+![Drzewo 3 klasy](assets/images/plots/drzewo3.png)
 
-![Drzewo 4 klasy](./assets/images/plots/drzewo4.png)
+![Drzewo 4 klasy](assets/images/plots/drzewo4.png)
 
 Na kolejnych grafikach można zobaczyć drzewo, które zostało uznane za dobry przykład wskazujący
 na rozgraniczającą cechę oraz drzewo będące anty-przykładem.
 
-![Dobre drzewo](./assets/images/plots/dobredrzewo.png)
+![Dobre drzewo](assets/images/plots/dobredrzewo.png)
 
-![Złe drzewo](./assets/images/plots/zledrzewo.png)
+![Złe drzewo](assets/images/plots/zledrzewo.png)
 
 #### Podsumowanie metody
 
@@ -183,12 +183,6 @@ Wyniki zostały przedstawione poniżej.
 
 ![Regresja](./assets/images/plots/regresja12.png)
 
-![Regresja](./assets/images/plots/regresja21.png)
-
-![Regresja](./assets/images/plots/regresja31.png)
-
-![Regresja](./assets/images/plots/regresja32.png)
-
 ## Podsumowanie analiz na danych ilościowych
 
 * Ocena rzeczywistej sytuacji w kraju jest problemem tak złożonym, że nie udało się znaleźć 
@@ -224,11 +218,9 @@ dnia wybuchu epidemii. Zdecydowano się na wyznaczenie początku pandemii jako
 Poniższe wykresy pokazują dla przykładu odpowiednio sumę wszystkich przypadków, dzienną liczbę nowych przypadków
 oraz dzienny procentowy przyrost nowych przypadków.
 
-![Cechy procentowe suma](./assets/images/plots/cpsuma.png) 
-
-![Cechy procentowe przyrost](./assets/images/plots/cpprzyrost.png)
+![Cechy procentowe suma](assets/images/plots/cpsuma.png) | ![Cechy procentowe przyrost](assets/images/plots/cpprzyrost.png)
  
-![Cechy procentowe przyrost procentowy](./assets/images/plots/cpprzyrostprocentowy.png)
+![Cechy procentowe przyrost procentowy](assets/images/plots/cpprzyrostprocentowy.png)
 
 #### Cechy do klasteryzacji
 
@@ -257,7 +249,7 @@ Poniżej przedstawiony został przykład drzewa uzyskanego dla jednej z takich a
 czasowe, którego punkt początkowy stanowił spadek do 20% przyrostu dziennego śmierci. Jak można zauważyć z poniższego
 diagramu 22 z 24 krajów należących do jednej grupy od razu została rozgraniczona.
 
-![Drzewo procentowe](./assets/images/plots/drzewoprocent.png)
+![Drzewo procentowe](assets/images/plots/drzewoprocent.png)
 
 Po głębszej analizie przypadków okazało się, że kraje, które **lepiej** przechodziły epidemię **później** zamknęły szkoły.
 Okazało się, że państwa z mniejszą śmiertelnością zamknęły szkoły średnio około miesiąc przed analizowanym oknem etapu epidemii, 
