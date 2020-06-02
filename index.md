@@ -281,10 +281,27 @@ lub im mniejszy rozwój koronawirusa, tym później zamknięto szkoły.
 #### Różnice kulturowe
 W trakcie badań został uwidoczniony fakt, że wiele państw różni się od siebie pod względem kulturowym. Niektóre z tych
 różnic mogą mieć znaczny wpływ na przebieg epidemii. Przykładem może być odsetek ludzi w wieku 30-49 lat mieszkających
-ze swoimi prawdopodobnie już starszymi i bardziej narażonymi rodzicami (przedstawiony na wykresie poniżej). 
+ze swoimi prawdopodobnie już starszymi i bardziej narażonymi rodzicami (przedstawiony na wykresie poniżej - [źródło](https://voxeu.org/article/intergenerational-ties-and-case-fatality-rates?fbclid=IwAR0JFTj3RB9E8N7VuKKga0B8fWQs9VzEhk4G7xLT0S1yFoxRuopexhigbj8)). 
 Inny przykład może stanowić ,,otawrtość" narodu, czyli np. to jaką odległość utrzymuje się standardowo od ludzi obcych.
 
 ![Różnice kulturowe](./assets/images/plots/kultura.png)
+
+#### Jakość testów
+Poza rozbierznościami w liczbie testów na milion mieszkańców oraz różnicach w samym liczeniu kolejną niepokojącą rzeczą
+jest ich jakość. Okazuje się bowiem, że nie wszystkie typy testów powinny być stosowane do rozpoznawania COVID-19, są one
+także obarczone dużą niepewnością.
+
+* Testy RT_PCR (próba 82 osób):
+    * TP: 79%
+    * FP: 0%
+    * FN: 21%
+    * TN: 100%
+* Inne źródła:
+    * FN: 2-29%
+    
+Poniższa infografika przedstawia rodzaje testów ([źródło](https://scontent.fktw4-1.fna.fbcdn.net/v/t1.0-9/98209360_2856189671085308_6146867794290933760_n.jpg?_nc_cat=100&_nc_sid=110474&_nc_ohc=XUh9oDY_Y4gAX_Py1kh&_nc_ht=scontent.fktw4-1.fna&oh=92df138690d066b198f3b17a4942c78d&oe=5EF3B13E&dl=1)).
+
+![Typy testów](./assets/images/plots/typytestow.png)
 
 ## Analizy zewnętrzne
 
@@ -303,6 +320,9 @@ Powstają także analizy dotyczące testowania i rozstrzygnięcia liczby zgonów
 
 ### endcoronavirus.org
 Analiza i krytyczne spojrzenie na informacje ze strony endcoronavirus.org zostały opisane [tutaj](./endcoronavirus).
+
+### Inne analizy
+Podsumowanie pozostałych analiz opisane zostało [tutaj](./otheranalyzes)
 
 ## Podsumowanie
 
