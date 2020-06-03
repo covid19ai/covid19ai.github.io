@@ -341,4 +341,9 @@ Podsumowanie pozostałych analiz opisane zostało [tutaj](./otheranalyzes).
 * Ogrom różnych czynników sprawia, że bardzo ciężko jest przeprowadzić rzetelną analizę pod kątem jednego z nich
 * **Brak wspólnego mianownika pozwalającego porównywać kraje**
 
+## Autorzy
+Miriam Jańczak, Marta Maślankowska, Łukasz Sus
+
+kontakt: corona.poland@gmail.com
+
 
